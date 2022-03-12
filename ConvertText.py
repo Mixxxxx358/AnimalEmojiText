@@ -36,5 +36,7 @@ sentence_emoji = emoji.emojize(sentence_emoji.replace('z', ':zebra:'))
 
 sentence_emoji = emoji.emojize(sentence_emoji.replace('3', ':deciduous_tree:'))
 sentence_emoji = emoji.emojize(sentence_emoji.replace('?', ':thinking_face:'))
+sentence_emoji = emoji.emojize(sentence_emoji.replace('!', ':loudspeaker:'))
+sentence_emoji = emoji.emojize(sentence_emoji.replace(',', ':bowl with spoon:'))
 
 print(sentence_emoji)
